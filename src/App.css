@@ -69,6 +69,11 @@
   }
 }
 
+.url_input {
+  width: 300px; /* Set the width to your desired size */
+  height: 40px; /* Set the height to your desired size */
+}
+
 /* Tailwind Styles */
 
 .app {
